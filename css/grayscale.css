@@ -23,8 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-    padding-top: 50px;
-    margin: 0 0 25px;
+    margin: 0 0 35px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -32,7 +31,7 @@ h6 {
 }
 
 p {
-    margin: 0 0 0;
+    margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
 }
@@ -79,7 +78,7 @@ a:focus {
 }
 
 .navbar-custom .navbar-brand .navbar-toggle {
-    padding: 100px 100px;
+    padding: 4px 6px;
     font-size: 16px;
     color: #fff;
 }
@@ -162,11 +161,11 @@ a:focus {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .intro .intro-body .intro-text {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 @media(min-width:768px) {
@@ -180,7 +179,7 @@ a:focus {
     }
 
     .intro .intro-body .intro-text {
-        font-size: 26px;
+        font-size: 20px;
     }
 }
 
